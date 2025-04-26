@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Red Prince Writes.</title>
+    <link>https://redprincewrites.org/posts/</link>
+    <description>Recent content in Posts on The Red Prince Writes.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://redprincewrites.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://redprincewrites.org/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://redprincewrites.org/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Book 1: The Tutorial Era&lt;/p&gt;&#xA;&lt;p&gt;Chapter 1: The Tomb of Albus Dumbledore&lt;/p&gt;&#xA;&lt;p&gt;10 years after the fall of Hogwarts&lt;/p&gt;&#xA;&lt;p&gt;The midnight air pulsed with magic. A cruel cold wind swept the graveyard.&lt;/p&gt;&#xA;&lt;p&gt;Lucius Malfoy, Minister for Magic, Lord Viceroy of Great Britain, and Senior Chair of the International Coalition of Wizards, shivered and watched in abject terror at the sight in front of him.&lt;/p&gt;&#xA;&lt;p&gt;Lord Voldemort, Father of the Wizarding Race, Undisputed Master of all Magic, and Lord of the West, chanted an ancient, archaic spell. In front of him a large bonfire blazed, reaching almost to the stars. It seemed to grow with each moment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
