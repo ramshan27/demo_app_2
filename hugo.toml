@@ -1,0 +1,4 @@
+baseURL = 'https://redprincewrites.org/'
+languageCode = 'en-us'
+title = 'The Red Prince Writes.'
+theme = 'ananke'
